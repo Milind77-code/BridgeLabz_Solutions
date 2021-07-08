@@ -10,7 +10,6 @@ namespace Basic_Core_Programs
         {
             //variables
             int num, rem;
-
             Console.WriteLine("----Check whether a number is even or odd----");
             Console.WriteLine("---------------------------------------------");
 
