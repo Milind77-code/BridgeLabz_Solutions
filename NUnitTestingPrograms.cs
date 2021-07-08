@@ -4,7 +4,7 @@ using System.Text;
 
 namespace N_Unit_Testing
 {
-    class NUnitTesting
+    class NUnitTestingPrograms
     {
         static void Main(string[] args)
         {
