@@ -8,7 +8,7 @@ namespace Logical_Programs
         {
             Console.WriteLine("<---------Welcome to Logical Programs--------->");
             Console.WriteLine("----------------------------------------------");
-            Console.WriteLine("Select one Option Between (1 - 10)");
+            Console.WriteLine("Select one Option Between (1 - 6)");
             Console.WriteLine("-----------------------------------------------");
             Console.WriteLine(" 01:- Fibonnaci Series \n 02:- Perfect Number \n 03:- Prime Number \n 04:- Reversre Number \n 05:- Coupon Number \n 06:- Stop-Watch");
             Console.WriteLine("-----------------------------------------------");
