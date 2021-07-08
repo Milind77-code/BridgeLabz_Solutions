@@ -10,7 +10,6 @@ namespace Basic_Core_Programs
         {
             //Variable
             int num1, num2, num3;
-
             Console.WriteLine("----Find the largest of three numbers----");
             Console.WriteLine("-----------------------------------------");
 
