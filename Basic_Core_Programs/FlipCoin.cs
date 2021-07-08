@@ -6,6 +6,7 @@ namespace Basic_Core_Programs
 {
     class FlipCoin
     {
+        
         public static void getFlipCoin()
         {
             //variable
