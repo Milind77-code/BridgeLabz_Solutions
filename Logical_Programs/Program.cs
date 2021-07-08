@@ -44,7 +44,7 @@ namespace Logical_Programs
                     break;
 
                 default:
-                    Console.WriteLine("Choose a number between 1 to 10");
+                    Console.WriteLine("Choose a number between 1 to 6");
                     break;
 
             }
